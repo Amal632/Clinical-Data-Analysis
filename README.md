@@ -43,6 +43,4 @@ L'idée est de comprendre quels facteurs (âge, sexe, cholestérol, type de doul
 
 > Cette analyse permet de comprendre, de manière simple et interprétable, quels facteurs cliniques influencent le risque de maladie cardiaque, tout en proposant un modèle prédictif utilisable pour de futures analyses.
 
----
 
-## 📂 Structure du projet
