@@ -31,16 +31,6 @@ L'idée est de comprendre quels facteurs (âge, sexe, cholestérol, type de doul
 - Évaluation du modèle : accuracy, precision, recall, F1-score  
 - Analyse de l’importance des variables pour interprétation clinique
 
----
 
-## 📊 Résultats et interprétation clinique
-- Accuracy du modèle : ~XX% (remplacer par le résultat réel)  
-- Les facteurs les plus influents sur le risque de maladie cardiaque :  
-  - Âge : les patients plus âgés ont un risque plus élevé  
-  - Cholestérol : niveaux élevés associés à un risque plus important  
-  - Type de douleur (cp) : certaines douleurs sont plus fortement corrélées à la maladie  
-  - Sexe : les hommes semblent plus touchés que les femmes dans ce dataset
-
-> Cette analyse permet de comprendre, de manière simple et interprétable, quels facteurs cliniques influencent le risque de maladie cardiaque, tout en proposant un modèle prédictif utilisable pour de futures analyses.
 
 
