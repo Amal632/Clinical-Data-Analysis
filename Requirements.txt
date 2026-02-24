@@ -1,3 +1,4 @@
+Liste toutes les librairies Python utilisées : 
 pandas
 numpy
 matplotlib
