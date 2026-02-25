@@ -32,5 +32,12 @@ L'idée est de comprendre quels facteurs (âge, sexe, cholestérol, type de doul
 - Analyse de l’importance des variables pour interprétation clinique
 
 
+## 📊 Résultats
+- Accuracy : 85%
+- Précision : 82% pour non-malades, 88% pour malades
+- Rappel : 83% pour non-malades, 87% pour malades
+- Variables importantes : âge, sexe, type de douleur, cholestérol, fréquence cardiaque
+
+
 
 
